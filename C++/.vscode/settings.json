@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "regex": "cpp",
+        "random": "cpp"
+    },
+    "files.exclude": {
+        "**/*.exe": true,
+    }
+}
